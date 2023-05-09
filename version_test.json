@@ -1,0 +1,18 @@
+{
+"version": "3.0.0.1",
+"libreria": {
+"version": "3.0.0.1",
+"informacion": "Se han solucionado algunos errores menores.",
+"url_descarga": "http://tu-servidor.com/actualizacion_libreria.zip"
+},
+"opcion": {
+"version": "3.0.1.0",
+"informacion": "Se ha agregado una nueva opción en el menú principal.",
+"url_descarga": "http://tu-servidor.com/actualizacion_opcion.zip"
+},
+"descarga": {
+"version": "3.1.0.0",
+"informacion": "Se ha añadido una función de guardado automático.",
+"url_descarga": "http://tu-servidor.com/actualizacion_descarga.zip"
+}
+}

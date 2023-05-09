@@ -1,0 +1,18 @@
+{
+"version": "3.0.2.0",
+"libreria": {
+"version": "3.0.1.1",
+"informacion": "Versión: 3.0.1.1\nRama: Beta\nCategoría: Librería\nFecha lanzamiento: 28/04/2023\n\nDescripción de la actualización:\n\n* Se a corregido un error en las PlayList.\n\n* Se agrego un nuevo sonido al añadir una nueva descarga.\n\nPuede ser desactivado en Opciones, por defecto viene activado.\n\n* Solucionados algunos errores internos.",
+"url_descarga": "https://xebolax.synology.me:5001/d/s/tLp7fJFUMpQ2fU6ZOQpFKyp9cL7rp3ap/webapi/entry.cgi/libreria.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A749304940054232024%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1682672521096&sharing_token=%2242Gr4ZskmxdNtP9MZnv5BJxxBB5D43klibtwZ2hd9yrPPS3y29bWVIltGh2l5HjglixOonMiQlZDM.WJBRRH6aaTvfugyM3Jm8.aw9wHkC_MpBkIKLNpkdhRiK8bOkES4dq1UChk5mF2csypwIOt43h1Z8SOXlDSuHvluJ..ARwDz9IgVPErVk_EyEzL.iaD8ZmfImIs6ZarqTE1aBSVa3hADQnqAZtqtaSIsVkDgLQvaYXoieLq.l5o%22"
+},
+"funcion": {
+"version": "3.0.2.0",
+"informacion": "Versión: 3.0.2.0\nRama: Beta\nCategoría: Funcion\nFecha lanzamiento: 30/04/2023\n\nDescripción de la actualización:\n\n* Agregados 84 idiomas nuevos (traducción automatica)\n\nSe han agregado 84 nuevos idiomas con traducción automática para que la aplicación pueda ser lo más universal posible.\n\nAdemás, se a automatizado por completo el tema de las traducciones para facilitar a los traductores el trabajo.\n\nSe a reescrito todo el modulo de idiomas.\n\nMirar el manual lo referido al idioma y traducciones.\n\n* Agregado en el menú de la aplicación las siguientes opciones:\n\n- Manual: Nos dará el manual de la versión 3.0.0.0 Final, el manual se abrirá en el navegador web por defecto.\n\n- Entra a nuestro sitio web: Nos abrirá el navegador en el blog de Tecnoconocimiento Accesible.\n\n- Salir: Saldrá de la aplicación.\n\n* Solucionados algunos errores internos.",
+"url_descarga": "https://xebolax.synology.me:5001/d/s/tLHNCUsmEpVLVV64nMYID7UMC7FErsNE/webapi/entry.cgi/funcion.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A749186087565441352%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1682615956926&sharing_token=%22k6TXb_nHv7sutlaT13j767BEvlqBd_LFpMeVNaGzggVhfaPvFtRqxP.Dq26FzRjlLrgZV_7GjQbVjmph29FDwkHEppoD467H7ERcLZx34yOHImhXsD7BBi33WsLtd2cRTbWGKNMZ4LOXUJmWmoBuMC6_EcUyFMMZZGCRqs5wmPsMB5ZCIXJwxU9u32fcF4GS7_UzEDxFjWEEoJZDZ3NS8ABJBbKEFOdbCm_hPSY6Eofz465HPqV47fCr%22"
+},
+"completa": {
+"version": "3.0.0.0",
+"informacion": "Esto es una prueba.\n\nSe va a instalar una versión completa.\n\nEsto tendrá 3 ramas:\n\nLibrería: Que actualizara solo librerías internas.\n\nFunción: Que actualizara cuando haya nuevas opciones.\n\nCompleta: Este ejemplo que instala todo el programa, esto es útil en aquellas versiones que tenga que tocar el ejecutable principal.\n\nEsto se reflejara en el número de versión.\n\n3.0.0.0, de los 4 dígitos el ultimo pertenece a librería, el antepenúltimo a función y el segundo a completa.\n\nEn este ejemplo al ser una versión completa saltaremos de la 3.0.0.0 a la 3.1.0.0.\n\nSi hubiese sido librería solo quedaría la 3.0.0.1 y si hubiese sido función quedaría la 3.0.1.0.",
+"url_descarga": "https://xebolax.synology.me:5001/d/s/tHyH6bD4PIRH9gHWwiQUFx59hPpqnke8/webapi/entry.cgi/completa.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A748463810366452633%22%5D&force_download=true&json_error=true&c2_offload=%22allow%22&_dc=1682271419645&sharing_token=%22lZi2zYl_V5fBjZvncxQfQoukwaN6EtVb2Gplq.3ewtN7sAX7TcEbnli_v9yWf8jBPsaG14iombPRPdzSMU1EYiqgaM_axjQdXpOvCg5dZMExf8IcF6hD3_BknmbI76MZjwHKWeKeDz85XicAHKQD.zMAm37KcrId9rFbZayd.1bmiXiiqL0pugzH2haESgM8NJhl7gIULGODF8IUYWowo_8pXVb9IpcYmgzshtaEySB2MqmQnEuygva9%22"
+}
+}
