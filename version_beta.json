@@ -1,8 +1,8 @@
 {
-"version": "3.0.3.0",
+"version": "3.0.3.1",
 "libreria": {
-"version": "3.0.3.0",
-"informacion": "Versión: 3.0.3.0\nRama: Beta\nCategoría: Libreria\nFecha lanzamiento: 09/05/2023\n\nDescripción de la actualización:\n\n* Actualización de idiomas\n\n* Nueva opción para mostrar pantalla de video\n\nEn opciones / reproductor ahora nos aparecerá una nueva opción para\nQue cuando reproduzcamos un video automáticamente se abra la pantalla de video.\n\n* Actualizados servidores de actualización a Github.\n\n* Solucionados algunos errores internos.",
+"version": "3.0.3.1",
+"informacion": "Versión: 3.0.3.1\nRama: Beta\nCategoría: Libreria\nFecha lanzamiento: 13/05/2023\n\nDescripción de la actualización:\n\n* Actualización de idiomas\n\nAgregado italiano como idioma oficial.\n\n* Agregada documentación en inglés (versión automatica)\n\nSe a traducido de manera automática la documentación al inglés.\n\nSi ahora otro idioma que no sea español y en su idioma no hay documentación se presentara\nla documentación en inglés.\n\n* Agregado traducción automática para la información que se da cuando encontramos una actualización.\n\nAhora cuando otro idioma que no sea español encuentre actualizaciones, la descripción de la\nactualización Se traducirá automáticamente a través de Google Translate.\n\nSi no fuese posible se mostrara en español.\n\n* Agregado Ctrl + S para obtener estado de descargas.\n\nAhora al pulsar dicha combinación nos dirá si hay descargas y en caso\nDe haberlas nos dirá cuantas hay activas, terminadas y erróneas.\n\n* Nueva opción para mostrar pantalla de video\n\nEn opciones / reproductor ahora nos aparecerá una nueva opción para\nQue cuando reproduzcamos un video automáticamente se abra la pantalla de video.\n\n* Actualizados servidores de actualización a Github.\n\n* Corregido error en descargador múltiple\n\nDaba problemas al deseleccionar todos los items.\n\n* Solucionados algunos errores internos.",
 "url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0.1/libreria.zip"
 },
 "funcion": {
