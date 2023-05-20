@@ -1,8 +1,8 @@
 {
-"version": "3.0.3.2",
+"version": "3.0.3.3",
 "libreria": {
-"version": "3.0.3.2",
-"informacion": "Versión: 3.0.3.2\nRama: Beta\nCategoría: Libreria\nFecha lanzamiento: 15/05/2023\n\nDescripción de la actualización:\n\n* Actualización de idiomas\n\nAgregado turco como idioma oficial.\n\nAñadidas cadenas que faltaban para traducir.\n\n* Documentación actualizada\n\n* Solucionados algunos errores internos.",
+"version": "3.0.3.3",
+"informacion": "Versión: 3.0.3.3\nRama: Beta\nCategoría: Libreria\nFecha lanzamiento: 20/05/2023\n\nDescripción de la actualización:\n\n* Actualización de idiomas\n\nAñadidas cadenas que faltaban para traducir.\n\n* Documentación actualizada\n\nAgregada documentación oficial en Turco.\n\n* Solucionado problema con pantalla de video.\n\nAhora la pantalla de video si esta activada se cerrara cuando\nLa reproducción termine, independientemente de donde estemos.\n\n* Solucionados algunos errores internos.",
 "url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0.1/libreria.zip"
 },
 "funcion": {
