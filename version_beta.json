@@ -3,16 +3,16 @@
 "libreria": {
 "version": "3.0.3.3",
 "informacion": "Versión: 3.0.3.3\nRama: Beta\nCategoría: Libreria\nFecha lanzamiento: 20/05/2023\n\nDescripción de la actualización:\n\n* Actualización de idiomas\n\nAñadidas cadenas que faltaban para traducir.\n\n* Documentación actualizada\n\nAgregada documentación oficial en Turco.\n\n* Solucionado problema con pantalla de video.\n\nAhora la pantalla de video si esta activada se cerrara cuando\nLa reproducción termine, independientemente de donde estemos.\n\n* Solucionados algunos errores internos.",
-"url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0.1/libreria.zip"
+"url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0-Beta/libreria.zip"
 },
 "funcion": {
 "version": "3.0.2.0",
 "informacion": "Versión: 3.0.2.0\nRama: Beta\nCategoría: Funcion\nFecha lanzamiento: 30/04/2023\n\nDescripción de la actualización:\n\n* Agregados 84 idiomas nuevos (traducción automatica)\n\nSe han agregado 84 nuevos idiomas con traducción automática para que la aplicación pueda ser lo más universal posible.\n\nAdemás, se a automatizado por completo el tema de las traducciones para facilitar a los traductores el trabajo.\n\nSe a reescrito todo el modulo de idiomas.\n\nMirar el manual lo referido al idioma y traducciones.\n\n* Agregado en el menú de la aplicación las siguientes opciones:\n\n- Manual: Nos dará el manual de la versión 3.0.0.0 Final, el manual se abrirá en el navegador web por defecto.\n\n- Entra a nuestro sitio web: Nos abrirá el navegador en el blog de Tecnoconocimiento Accesible.\n\n- Salir: Saldrá de la aplicación.\n\n* Solucionados algunos errores internos.",
-"url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0.1/funcion.zip"
+"url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0-Beta/funcion.zip"
 },
 "completa": {
 "version": "3.0.0.0",
 "informacion": "Esto es una prueba.\n\nSe va a instalar una versión completa.\n\nEsto tendrá 3 ramas:\n\nLibrería: Que actualizara solo librerías internas.\n\nFunción: Que actualizara cuando haya nuevas opciones.\n\nCompleta: Este ejemplo que instala todo el programa, esto es útil en aquellas versiones que tenga que tocar el ejecutable principal.\n\nEsto se reflejara en el número de versión.\n\n3.0.0.0, de los 4 dígitos el ultimo pertenece a librería, el antepenúltimo a función y el segundo a completa.\n\nEn este ejemplo al ser una versión completa saltaremos de la 3.0.0.0 a la 3.1.0.0.\n\nSi hubiese sido librería solo quedaría la 3.0.0.1 y si hubiese sido función quedaría la 3.0.1.0.",
-"url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0.1/completa.zip"
+"url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0-Beta/completa.zip"
 }
 }
