@@ -1,8 +1,8 @@
 {
-"version": "3.0.0.0",
+"version": "3.0.0.1",
 "libreria": {
-"version": "3.0.0.0",
-"informacion": "Se han solucionado algunos errores menores.",
+"version": "3.0.0.1",
+"informacion": "Versión: 3.0.0.1\nRama: Final\nCategoría: Libreria\nFecha lanzamiento: 16/06/2023\n\nDescripción de la actualización:\n\n* Corregido errores en canales vacíos.\n\nSe a implementado una nueva forma de gestionar los datos obtenidos de YouTube,\nahora la información de los videos se debería mostrar correctamente en los\ncanales, playlist y selección de videos para descargar.\n\n* Solucionados algunos errores internos.",
 "url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0-Final/libreria.zip"
 },
 "funcion": {
