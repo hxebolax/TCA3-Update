@@ -1,8 +1,8 @@
 {
-"version": "3.0.1.1",
+"version": "3.0.1.2",
 "libreria": {
-"version": "3.0.1.1",
-"informacion": "Versión: 3.0.1.1\nRama: Final\nCategoría: Libreria\nFecha lanzamiento: 08/07/2023\n\nDescripción de la actualización:\n\n* Agregado contemplación de URLs de shorts de YouTube.\nAhora cuando introduzcamos una URL en la pestaña URLs y que dicha URL coincida con\nuna de tipo shorts se ofrecerán las opciones iguales que si fuese un video de YouTube y\nasí poder interactuar con dichas URL como si fuese un video.\n\n* Actualizada la librería YT-DLP a la versión 2023.07.06.\n\n* Se han actualizado librerías internas para un mejor funcionamiento de la aplicación.\n\n* Solucionados errores internos.\n\n* Actualizadas traducciones.",
+"version": "3.0.1.2",
+"informacion": "Versión: 3.0.1.2\nRama: Final\nCategoría: Libreria\nFecha lanzamiento: 09/07/2023\n\nDescripción de la actualización:\n* Arreglado compartir con MASTODON.\n\n* Agregado contemplación de URLs de shorts de YouTube.\n\nAhora cuando introduzcamos una URL en la pestaña URLs y que dicha URL coincida con\nuna de tipo shorts se ofrecerán las opciones iguales que si fuese un video de YouTube y\nasí poder interactuar con dichas URL como si fuese un video.\n\n* Actualizada la librería YT-DLP a la versión 2023.07.06.\n\n* Se han actualizado librerías internas para un mejor funcionamiento de la aplicación.\n\n* Solucionados errores internos.\n\n* Actualizadas traducciones.",
 "url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0-Final/libreria.zip"
 },
 "funcion": {
