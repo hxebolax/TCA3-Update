@@ -1,8 +1,8 @@
 {
-"version": "3.0.5.0",
+"version": "3.0.5.1",
 "libreria": {
-"version": "3.0.3.3",
-"informacion": "Versión: 3.0.3.3\nRama: Beta\nCategoría: Libreria\nFecha lanzamiento: 20/05/2023\n\nDescripción de la actualización:\n\n* Actualización de idiomas\n\nAñadidas cadenas que faltaban para traducir.\n\n* Documentación actualizada\n\nAgregada documentación oficial en Turco.\n\n* Solucionado problema con pantalla de video.\n\nAhora la pantalla de video si esta activada se cerrara cuando\nLa reproducción termine, independientemente de donde estemos.\n\n* Solucionados algunos errores internos.",
+"version": "3.0.5.1",
+"informacion": "Versión: 3.0.5.1\nRama: Beta\nCategoría: Libreria\nFecha lanzamiento: 06/08/2023\n\nDescripción de la actualización:\n\n* Solucionado problemas con canales que no mostraban PlayList.\n\n* Agregado contemplación de URLs de clips de YouTube.\n\nAhora si ponemos una URL de un clip de YouTube en la pestaña URLS nos dará la posibilidad de descargar con formato o original.\n\nTambién nos permitirá obtener información del clip mezclado con la ficha original del video donde se extrajo el clip.\n\nLos clips no pueden ser reproducidos con la combinación Ctrl + R ni ser reproducidos.\n\nLos clips tampoco pueden ser añadidos a la pestaña favoritos.\n\n* Se han actualizado librerías internas para un mejor funcionamiento de la aplicación.\n\n* Solucionados errores internos.\n\n* Actualizadas traducciones.",
 "url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0-Beta/libreria.zip"
 },
 "funcion": {
