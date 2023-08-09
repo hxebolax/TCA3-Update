@@ -1,8 +1,8 @@
 {
-"version": "3.0.6.0",
+"version": "3.0.6.1",
 "libreria": {
-"version": "3.0.5.1",
-"informacion": "Versión: 3.0.5.1\nRama: Beta\nCategoría: Libreria\nFecha lanzamiento: 06/08/2023\n\nDescripción de la actualización:\n\n* Solucionado problemas con canales que no mostraban PlayList.\n\n* Agregado contemplación de URLs de clips de YouTube.\n\nAhora si ponemos una URL de un clip de YouTube en la pestaña URLS nos dará la posibilidad de descargar con formato o original.\n\nTambién nos permitirá obtener información del clip mezclado con la ficha original del video donde se extrajo el clip.\n\nLos clips no pueden ser reproducidos con la combinación Ctrl + R ni ser reproducidos.\n\nLos clips tampoco pueden ser añadidos a la pestaña favoritos.\n\n* Se han actualizado librerías internas para un mejor funcionamiento de la aplicación.\n\n* Solucionados errores internos.\n\n* Actualizadas traducciones.",
+"version": "3.0.6.1",
+"informacion": "Versión: 3.0.6.1\nRama: Beta\nCategoría: Libreria\nFecha lanzamiento: 09/08/2023\n\nDescripción de la actualización:\n\n* Solucionados problemas con los sonidos.\n\n* Agregado el poder cambiar de rama de desarrollo de TCA-Media Downloader.\n\nEn opciones / general tendremos un botón llamado Alternar rama de desarrollo.\n\nSi pulsamos dicho botón nos permitirá cambiar entre la rama final que es la estable y la beta que es la que recibe las novedades antes pero puede contener errores.\n\n* Solucionado la extracción de información de canales con nombre\n\nAhora los canales que tengan nombre en vez de id se mostrarán correctamente.\n\n* Agregado idioma Ucraniano como oficial.\n\n* Se han actualizado librerías internas para un mejor funcionamiento de la aplicación.\n\n* Solucionados errores internos.\n\n* Actualizadas traducciones.",
 "url_descarga": "https://github.com/hxebolax/TCA3-Update/releases/download/3.0-Beta/libreria.zip"
 },
 "funcion": {
