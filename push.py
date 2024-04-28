@@ -40,8 +40,10 @@ def run_comando(comando):
 	process = subprocess.Popen(comando, stdout=subprocess.PIPE)
 	output = process.communicate()[0]
 
-directorio = "data/beta" # Asegúrate de ajustar esta ruta al directorio que deseas comprimir
-comprimir_subdirectorios_con_limpieza(directorio)
+directorio_beta = "data/beta" # Asegúrate de ajustar esta ruta al directorio que deseas comprimir
+directorio_final = "data/final" # Asegúrate de ajustar esta ruta al directorio que deseas comprimir
+comprimir_subdirectorios_con_limpieza(directorio_beta)
+comprimir_subdirectorios_con_limpieza(directorio_final)
 
 comentario = input("Introduzca comentario: ")
 run_comando(["git", "init"])
