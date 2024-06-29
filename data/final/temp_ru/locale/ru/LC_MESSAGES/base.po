@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TCA-MediaDownloader\n"
 "POT-Creation-Date: 2024-04-28 12:33+0200\n"
-"PO-Revision-Date: 2024-05-17 10:50+0300\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2024-06-13 14:31+0300\n"
+"Last-Translator: nvda.ru\n"
 "Language-Team: nvda.ru\n"
 "Language: ru_RU\n"
-"MIME-Version: 1.1\n"
+"MIME-Version: 1.2\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
@@ -2157,7 +2157,7 @@ msgstr "Без нумерации (по умолчанию)"
 
 #: D:\TCA-MediaDownloader3-Entorno\src-Beta\src\ajustes\ajustes_datos.py:201
 msgid "Sin numeración y crear subdirectorio"
-msgstr "Без нумерации и создания подкаталога"
+msgstr "Без нумерации и создать подкаталог"
 
 #: D:\TCA-MediaDownloader3-Entorno\src-Beta\src\ajustes\ajustes_datos.py:202
 msgid "Con numeración"
@@ -6569,7 +6569,7 @@ msgstr "Воспроизведение звука после неудачной 
 #: D:\TCA-MediaDownloader3-Entorno\src-Beta\src\gui\dialogo_ajustes.py:157
 msgid "Mandar mensajes de información de acciones al lector de pantallas"
 msgstr ""
-"Отправка информационных сообщений о действиях программе чтения с экрана"
+"Отправка информационных сообщений о действиях в программу чтения с экрана"
 
 #: D:\TCA-MediaDownloader3-Entorno\src-Beta\src\gui\dialogo_ajustes.py:160
 msgid ""
